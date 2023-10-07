@@ -14,4 +14,4 @@
 
 ## Diagrama UML
 
-![](/Users/dluks/Desktop/Cursos/dio/java/dio-java-developer/diagramacao-iphone/Diagramacao_iPhone.jpg)
+<img alt="Diagrama UML do desafio" src="Diagramacao_iPhone.jpg">
